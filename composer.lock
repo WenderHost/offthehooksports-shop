@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4af39338f56f00561033424957a68f89",
+    "content-hash": "46f7692bdc71b8a28d49a1928ffb98a6",
     "packages": [
         {
             "name": "composer/installers",
@@ -1093,6 +1093,25 @@
                 }
             ],
             "time": "2022-10-16T01:01:54+00:00"
+        },
+        {
+            "name": "wenmark/breakdance",
+            "version": "1.4.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://packages.wenmarkdigital.com/satispress/breakdance/1.4.1",
+                "shasum": "06ba922ac06372ae86a6fb843f3f16564166e5ef"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "authors": {
+                "name": "Breakdance",
+                "homepage": "https://breakdance.com/"
+            },
+            "description": "The Breakdance website builder for WordPress makes it easy to create incredible websites with 100+ elements, mega menu builder, form builder, WooCommerce, dynamic data, and much more.",
+            "homepage": "https://breakdance.com/"
         },
         {
             "name": "wpackagist-theme/twentytwentythree",
