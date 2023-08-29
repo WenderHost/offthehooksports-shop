@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "86cbb54c611b33d1f27fa950c6330889",
+    "content-hash": "338d5690960b21f7f0d171018d4a7160",
     "packages": [
         {
             "name": "composer/installers",
@@ -1120,11 +1120,11 @@
         },
         {
             "name": "wenmark/breakdance",
-            "version": "1.4.1",
+            "version": "1.5.0",
             "dist": {
                 "type": "zip",
-                "url": "https://packages.wenmarkdigital.com/satispress/breakdance/1.4.1",
-                "shasum": "06ba922ac06372ae86a6fb843f3f16564166e5ef"
+                "url": "https://packages.wenmarkdigital.com/satispress/breakdance/1.5.0",
+                "shasum": "569ac0a97fa897a769c85653169735030a674e15"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
