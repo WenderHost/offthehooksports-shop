@@ -51,7 +51,8 @@
     "wpackagist-plugin/woocommerce": "^8.0",
     "wpackagist-plugin/disable-gutenberg": "^3.0",
     "wpackagist-plugin/woocommerce-gateway-stripe": "^7.5",
-    "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags": "^3.3"
+    "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags": "^3.3",
+    "wpackagist-plugin/insert-headers-and-footers": "^2.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
