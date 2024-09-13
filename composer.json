@@ -43,7 +43,7 @@
     "roots/bedrock-disallow-indexing": "^2.0",
     "roots/wordpress": "^6",
     "roots/wp-config": "1.0.0",
-    "roots/wp-password-bcrypt": "1.1.0",
+    "roots/wp-password-bcrypt": "1.2.0",
     "wpackagist-theme/twentytwentythree": "^1.0",
     "wenmark/breakdance": "1.5.0",
     "wpackagist-plugin/spinupwp": "^1.5",
