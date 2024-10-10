@@ -45,7 +45,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentythree": "^1.0",
-    "wenmark/breakdance": "1.5.0",
+    "wenmark/breakdance": "1.7.2",
     "wpackagist-plugin/spinupwp": "^1.5",
     "wpackagist-plugin/limit-login-attempts-reloaded": "^2.25",
     "wpackagist-plugin/woocommerce": "^8.0",
