@@ -17,7 +17,12 @@
     }
   ],
   "keywords": [
-    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config"
+    "bedrock",
+    "composer",
+    "roots",
+    "wordpress",
+    "wp",
+    "wp-config"
   ],
   "support": {
     "issues": "https://github.com/roots/bedrock/issues",
@@ -27,7 +32,10 @@
     "wpackagist": {
       "type": "composer",
       "url": "https://wpackagist.org",
-      "only": ["wpackagist-plugin/*", "wpackagist-theme/*"]
+      "only": [
+        "wpackagist-plugin/*",
+        "wpackagist-theme/*"
+      ]
     },
     "satispress": {
       "type": "composer",
@@ -48,7 +56,7 @@
     "wenmark/breakdance": "1.5.0",
     "wpackagist-plugin/spinupwp": "^1.5",
     "wpackagist-plugin/limit-login-attempts-reloaded": "^2.25",
-    "wpackagist-plugin/woocommerce": "^8.0",
+    "wpackagist-plugin/woocommerce": "9.3.3",
     "wpackagist-plugin/disable-gutenberg": "^3.0",
     "wpackagist-plugin/woocommerce-gateway-stripe": "^7.5",
     "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags": "^3.3",
@@ -70,9 +78,15 @@
   "prefer-stable": true,
   "extra": {
     "installer-paths": {
-      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
-      "web/app/plugins/{$name}/": ["type:wordpress-plugin"],
-      "web/app/themes/{$name}/": ["type:wordpress-theme"]
+      "web/app/mu-plugins/{$name}/": [
+        "type:wordpress-muplugin"
+      ],
+      "web/app/plugins/{$name}/": [
+        "type:wordpress-plugin"
+      ],
+      "web/app/themes/{$name}/": [
+        "type:wordpress-theme"
+      ]
     },
     "wordpress-install-dir": "web/wp"
   },
