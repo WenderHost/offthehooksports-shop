@@ -56,7 +56,7 @@
     "wenmark/breakdance": "1.5.0",
     "wpackagist-plugin/spinupwp": "^1.5",
     "wpackagist-plugin/limit-login-attempts-reloaded": "^2.25",
-    "wpackagist-plugin/woocommerce": "9.3.3",
+    "wpackagist-plugin/woocommerce": "9.8.5",
     "wpackagist-plugin/disable-gutenberg": "^3.0",
     "wpackagist-plugin/woocommerce-gateway-stripe": "8.8.0",
     "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags": "^3.3",
